@@ -21,7 +21,7 @@ Here’s a quick summary of what we covered in this project:
 
 ## 💬 Questions?
 
-If you have any questions or feedback, feel free to reach out to me on [**LinkedIn**](https://www.linkedin.com/in/aylingorgun/) — I’d love to connect!  
+If you have any questions or feedback, feel free to reach out to me on [**LinkedIn**](https://www.linkedin.com/in/aylingorgun/).
 
 ---
 
